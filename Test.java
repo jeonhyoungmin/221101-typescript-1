@@ -5,3 +5,5 @@ public class Test {
     return a + b;
   }
 }
+
+test(2, 3)
